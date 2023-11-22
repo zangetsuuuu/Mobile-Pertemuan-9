@@ -271,14 +271,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output
 
-![Launcher](./images/Launcher.jpg)
-![Main](./images/Main%20Activity.jpg)
-![Hello](./images/Project%20Hello.jpg)
-![Count](./images/Project%20Count.jpg)
-![Sianida](./images/Project%20Sianida.jpg)
-![Two Act](./images/Project%20Two%20Act%20(1).jpg)
-![Two Act](./images/Project%20Two%20Act%20(2).jpg)
-![Alarm](./images/Project%20Alarm.jpg)
+![Group 1](./images/Group%201.png)
+![Group 2](./images//Group%202.png)
 
 ---
 
